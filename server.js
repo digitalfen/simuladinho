@@ -29,14 +29,12 @@ app.get('/api/temas', (req, res) => {
             if (arquivo.endsWith('.json')) {
                 const nomeBase = arquivo.replace('.json', '');
                 const conteudo = fs.readFileSync(path.join(dataPath, arquivo), 'utf8');
-                const questoes = JSON.parse(conteudo);
+                const dados = JSON.parse(conteudo);
                 
                 temas.push({
                     id: temas.length + 1,
-                    nome: nomeBase.split('_').map(palavra => 
-                        palavra.charAt(0).toUpperCase() + palavra.slice(1)
-                    ).join(' '),
-                    questoes: questoes
+                    nome: dados.nome,
+                    questoes: dados.questoes
                 });
             }
         });
@@ -50,16 +48,16 @@ app.get('/api/temas', (req, res) => {
 
 // Rota para obter as questões de um tema específico
 app.get('/api/temas/:tema', (req, res) => {
-  const tema = req.params.tema;
-  try {
-    const data = fs.readFileSync(`./${tema}.json`, 'utf8');
-    const questoes = JSON.parse(data);
-    res.json(questoes);
-  } catch (error) {
-    res.status(404).json({ error: 'Tema não encontrado' });
-  }
+    const tema = req.params.tema;
+    try {
+        const data = fs.readFileSync(path.join(__dirname, 'data', `${tema}.json`), 'utf8');
+        const questoes = JSON.parse(data);
+        res.json(questoes);
+    } catch (error) {
+        res.status(404).json({ error: 'Tema não encontrado' });
+    }
 });
 
 app.listen(port, () => {
-  console.log(`Servidor rodando em http://localhost:${port}`);
+    console.log(`Servidor rodando em http://localhost:${port}`);
 }); 

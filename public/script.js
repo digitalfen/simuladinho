@@ -80,7 +80,21 @@ function iniciarTema(temaId, temas) {
 function renderizarQuestao() {
     const questao = estadoAtual.temaAtual.questoes[estadoAtual.questaoAtual];
     
+    // Limpar elementos anteriores
     document.querySelector('.pergunta').textContent = questao.pergunta;
+    document.querySelector('.alternativas').innerHTML = '';
+    
+    // Remover justificativa anterior se existir
+    const justificativaAnterior = document.querySelector('.justificativa');
+    if (justificativaAnterior) {
+        justificativaAnterior.remove();
+    }
+    
+    // Remover botão de próxima questão se existir
+    const proximaQuestaoBtn = document.querySelector('.proxima-questao-btn');
+    if (proximaQuestaoBtn) {
+        proximaQuestaoBtn.remove();
+    }
     
     const alternativasHTML = questao.respostas.map((alt, index) => `
         <button class="alternativa-btn" data-index="${index}">
