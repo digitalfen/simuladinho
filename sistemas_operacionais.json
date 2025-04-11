@@ -1,0 +1,67 @@
+{
+  "nome": "desenvolvimento_sustentavel",
+  "descricao": "Questões sobre desenvolvimento sustentável e gestão ambiental",
+  "tags": ["sustentabilidade", "meio ambiente", "gestão ambiental"],
+  "questoes": [
+    {
+      "pergunta": "A gestão ambiental tem se configurado com uma das mais importantes ferramentas relacionadas com qualquer negócio. Ela pode ser realizada em quatro níveis. Assinale a alternativa correta.",
+      "respostas": [
+        "Gestão de processos e gestão de sustentabilidade.",
+        "Gestão de resultados e gestão financeira.",
+        "Gestão do plano ambiental e gestão de pessoal.",
+        "Gestão de resíduos e gestão social.",
+        "Gestão de sustentabilidade e gestão social."
+      ],
+      "correta": 4,
+      "justificativa": "A gestão ambiental eficaz inclui a gestão de sustentabilidade e gestão social, além da gestão econômica e ambiental propriamente dita."
+    },
+    {
+      "pergunta": "A relação do homem com a natureza sempre aconteceu de forma bastante discrepante: de um lado, o homem, com toda a sua inteligência gananciosa, tentando alimentar os seus desejos de consumo e conforto; do outro, a natureza, com toda a sua exuberância e riqueza, fonte para todas as ações humanas. Qual a situação abaixo pode agravar ainda mais a crise ambiental?",
+      "respostas": [
+        "O agricultor que tira da terra o alimento que leva à mesa.",
+        "A humanidade perceber que os recursos naturais são finitos.",
+        "Quanto maior o nível educacional em um país, menor é a taxa de natalidade.",
+        "O desenvolvimento sem limites protagonizado pelo homem em prol dos interesses próprios.",
+        "O resultado do aquecimento da superfície do planeta que conhecemos como efeito estufa."
+      ],
+      "correta": 3,
+      "justificativa": "O desenvolvimento desenfreado leva à exploração excessiva dos recursos naturais, desequilíbrio ecológico e aumento da crise ambiental."
+    },
+    {
+      "pergunta": "Atualmente, as instituições estão cada vez mais preocupadas em atingir e demonstrar um desempenho mais satisfatório em relação ao meio ambiente. A problemática ambiental envolve também o gerenciamento dos assuntos pertinentes ao meio ambiente, por meio de sistemas de gestão ambiental, da busca pelo desenvolvimento sustentável, da análise do ciclo de vida dos produtos e da questão dos passivos ambientais.",
+      "respostas": [
+        "Para atingir o desenvolvimento sustentável, modifica-se o processo utilizando apenas materiais recicláveis, que geram menos resíduos.",
+        "Com as alterações na linha de produção, a empresa não precisa mais se preocupar com a questão ambiental.",
+        "A gestão ambiental tem como objetivo eliminar os resíduos, encontrando uma aplicação para eles, dentro ou fora da linha de produção.",
+        "As ferramentas de gestão ambiental devem ser aplicadas apenas para correção e remediação dos danos já causados ao meio ambiente.",
+        "A partir de uma adequada política de gestão ambiental, as empresas obtêm uma série de benefícios, sejam econômicos ou estratégicos."
+      ],
+      "correta": 4,
+      "justificativa": "Uma boa gestão ambiental pode reduzir custos, melhorar a imagem da empresa e garantir conformidade com leis e normas ambientais."
+    },
+    {
+      "pergunta": "O desenvolvimento sustentável objetiva uma modalidade de desenvolvimento capaz de acontecer de forma a suprir as necessidades presentes, de modo a não interferir no crescimento das gerações futuras. É também de fundamental importância a preocupação e a percepção de que alguns problemas podem acompanhar essa exploração de recursos naturais e ameaçar a sustentabilidade.",
+      "respostas": [
+        "Exploração predatória de matas e florestas, expulsando a fauna da região, podendo causar a extinção de espécies.",
+        "Minimiza a utilização dos bens ambientais (recursos naturais), conservando-os o máximo possível, utilizando materiais reciclados.",
+        "Analisar as mazelas sociais, como pobreza, desnível cultural e econômico como principais problemas.",
+        "A falta de escolaridade não agrava a questão ambiental, pois a educação deve ser dada pela família.",
+        "O comportamento consumista da população mundial, exigindo mais e mais produtos industrializados."
+      ],
+      "correta": 0,
+      "justificativa": "A exploração predatória compromete o equilíbrio dos ecossistemas e ameaça diretamente a sustentabilidade a longo prazo."
+    },
+    {
+      "pergunta": "O desenvolvimento sustentável é objeto de estudo de diversas áreas da sociedade e das organizações. Tornou-se uma tendência e uma preocupação mundial, visto que atualmente vivemos uma crise ambiental.",
+      "respostas": [
+        "Aumentar a consciência crítica da população, fazendo cada indivíduo assumir a sua responsabilidade perante a natureza.",
+        "Explorar os recursos naturais de forma consciente para garantir que as gerações futuras também usufruam dele.",
+        "Ensinar a todos os cidadãos que se cada um fizer a sua parte, perante a natureza, todos serão beneficiados.",
+        "Utilizar apenas recursos naturais renováveis, assim, as gerações futuras também poderão usufruir do benefício.",
+        "Dar prioridade à utilização de materiais recicláveis, diminuindo a extração de produtos naturais."
+      ],
+      "correta": 1,
+      "justificativa": "O objetivo principal do desenvolvimento sustentável é garantir que as gerações futuras também possam usufruir dos recursos naturais através de uma exploração consciente."
+    }
+  ]
+} 

@@ -1,0 +1,489 @@
+{
+  "nome": "Gestão Ambiental",
+  "descricao": "Questões sobre gestão ambiental e desenvolvimento sustentável",
+  "tags": ["gestão ambiental", "sustentabilidade", "meio ambiente", "desenvolvimento sustentável", "conferências ambientais", "Rio-92", "Protocolo de Kyoto", "energia", "recursos naturais", "ISO 14000", "legislação ambiental", "crise ambiental"],
+  "total_questoes": 40,
+  "questoes_respondidas": 0,
+  "questoes": [
+    {
+      "pergunta": "A gestão ambiental tem se configurado com uma das mais importantes ferramentas relacionadas com qualquer negócio. Ela pode ser realizada em quatro níveis. Assinale a alternativa correta.",
+      "respostas": [
+        "Gestão de processos e gestão de sustentabilidade.",
+        "Gestão de resultados e gestão financeira.",
+        "Gestão do plano ambiental e gestão de pessoal.",
+        "Gestão de resíduos e gestão social.",
+        "Gestão de sustentabilidade e gestão social."
+      ],
+      "correta": 4,
+      "justificativa": "A gestão ambiental eficaz inclui a gestão de sustentabilidade e gestão social, além da gestão econômica e ambiental propriamente dita."
+    },
+    {
+      "pergunta": "A relação do homem com a natureza sempre aconteceu de forma bastante discrepante: de um lado, o homem, com toda a sua inteligência gananciosa, tentando alimentar os seus desejos de consumo e conforto; do outro, a natureza, com toda a sua exuberância e riqueza, fonte para todas as ações humanas. Qual a situação abaixo pode agravar ainda mais a crise ambiental?",
+      "respostas": [
+        "O agricultor que tira da terra o alimento que leva à mesa.",
+        "A humanidade perceber que os recursos naturais são finitos.",
+        "Quanto maior o nível educacional em um país, menor é a taxa de natalidade.",
+        "O desenvolvimento sem limites protagonizado pelo homem em prol dos interesses próprios.",
+        "O resultado do aquecimento da superfície do planeta que conhecemos como efeito estufa."
+      ],
+      "correta": 3,
+      "justificativa": "O desenvolvimento desenfreado leva à exploração excessiva dos recursos naturais, desequilíbrio ecológico e aumento da crise ambiental."
+    },
+    {
+      "pergunta": "Atualmente, as instituições estão cada vez mais preocupadas em atingir e demonstrar um desempenho mais satisfatório em relação ao meio ambiente. A problemática ambiental envolve também o gerenciamento dos assuntos pertinentes ao meio ambiente, por meio de sistemas de gestão ambiental, da busca pelo desenvolvimento sustentável, da análise do ciclo de vida dos produtos e da questão dos passivos ambientais. Assinale a alternativa correta.",
+      "respostas": [
+        "Para atingir o desenvolvimento sustentável, modifica-se o processo utilizando apenas materiais recicláveis, que geram menos resíduos.",
+        "Com as alterações na linha de produção, a empresa não precisa mais se preocupar com a questão ambiental.",
+        "A gestão ambiental tem como objetivo eliminar os resíduos, encontrando uma aplicação para eles, dentro ou fora da linha de produção.",
+        "As ferramentas de gestão ambiental devem ser aplicadas apenas para correção e remediação dos danos já causados ao meio ambiente.",
+        "A partir de uma adequada política de gestão ambiental, as empresas obtêm uma série de benefícios, sejam econômicos ou estratégicos."
+      ],
+      "correta": 4,
+      "justificativa": "Uma boa gestão ambiental pode reduzir custos, melhorar a imagem da empresa e garantir conformidade com leis e normas ambientais."
+    },
+    {
+      "pergunta": "O desenvolvimento sustentável objetiva uma modalidade de desenvolvimento capaz de acontecer de forma a suprir as necessidades presentes, de modo a não interferir no crescimento das gerações futuras. É também de fundamental importância a preocupação e a percepção de que alguns problemas podem acompanhar essa exploração de recursos naturais e ameaçar a sustentabilidade. Assinale a alternativa que melhor representa esses problemas.",
+      "respostas": [
+        "Exploração predatória de matas e florestas, expulsando a fauna da região, podendo causar a extinção de espécies.",
+        "Minimiza a utilização dos bens ambientais (recursos naturais), conservando-os o máximo possível, utilizando materiais reciclados.",
+        "Analisar as mazelas sociais, como pobreza, desnível cultural e econômico como principais problemas.",
+        "A falta de escolaridade não agrava a questão ambiental, pois a educação deve ser dada pela família.",
+        "O comportamento consumista da população mundial, exigindo mais e mais produtos industrializados."
+      ],
+      "correta": 0,
+      "justificativa": "A exploração predatória compromete o equilíbrio dos ecossistemas e ameaça diretamente a sustentabilidade a longo prazo."
+    },
+    {
+      "pergunta": "O desenvolvimento sustentável é objeto de estudo de diversas áreas da sociedade e das organizações. Tornou-se uma tendência e uma preocupação mundial, visto que atualmente vivemos uma crise ambiental. Assinale a alternativa com o objetivo principal do desenvolvimento sustentável.",
+      "respostas": [
+        "Aumentar a consciência crítica da população, fazendo cada indivíduo assumir a sua responsabilidade perante a natureza.",
+        "Explorar os recursos naturais de forma consciente para garantir que as gerações futuras também usufruam dele.",
+        "Ensinar a todos os cidadãos que se cada um fizer a sua parte, perante a natureza, todos serão beneficiados.",
+        "Utilizar apenas recursos naturais renováveis, assim, as gerações futuras também poderão usufruir do benefício.",
+        "Dar prioridade à utilização de materiais recicláveis, diminuindo a extração de produtos naturais."
+      ],
+      "correta": 1,
+      "justificativa": "O objetivo principal do desenvolvimento sustentável é garantir que as gerações futuras possam usufruir dos recursos naturais através de uma exploração consciente."
+    },
+    {
+      "pergunta": "A Rio-92, também chamada de Cúpula da Terra ou Eco-92, tinha o mesmo objetivo da Conferência de Estocolmo, realizada em 1972. Vinte anos depois dela, estratégias para reduzir a degradação ambiental e preservar o ambiente para as gerações futuras ainda estavam sendo discutidas. Qual foi o assunto central da discussão?",
+      "respostas": [
+        "Redução da poluição atmosférica.",
+        "Preservação do meio ambiente.",
+        "Educação ambiental e sua implantação.",
+        "Instituição de créditos de carbono no mercado internacional.",
+        "Desenvolvimento sustentável."
+      ],
+      "correta": 4,
+      "justificativa": "A Rio-92 teve como tema central o desenvolvimento sustentável, que busca equilibrar crescimento econômico, preservação ambiental e justiça social."
+    },
+    {
+      "pergunta": "A elaboração da Agenda 21 brasileira foi obra do trabalho da Comissão de Políticas de Desenvolvimento Sustentável e da Agenda 21 Nacional, teve como objetivo redefinir o desenvolvimento do país, adicionando o conceito de sustentabilidade, qualificando suas potencialidades e as vulnerabilidades do Brasil no quadro internacional. Sobre o setor de energia, assinale a alternativa correta.",
+      "respostas": [
+        "Foram estabelecidas normas e regulamentação para o uso da energia, baseadas em economia de consumo.",
+        "Nesse período não foi dado ao consumidor orientações sobre as escolhas feitas nos planos técnicos e científicos.",
+        "Embora o governo incentivasse o estudo de novas fontes de energia, nenhum incentivo fiscal ou econômico foi oferecido.",
+        "Poucas tecnologias de fontes alternativas de energia foram divulgadas devido ao seu alto custo de desenvolvimento.",
+        "Foram criadas leis para promover o investimento de capitais privados em usinas de energia alternativas."
+      ],
+      "correta": 4,
+      "justificativa": "A Agenda 21 brasileira buscou incentivar o investimento em fontes renováveis, inclusive com a participação do setor privado, como parte da transição energética sustentável."
+    },
+    {
+      "pergunta": "As discussões da Rio-92 resultaram nos seguintes documentos: Agenda 21, Convenção da Biodiversidade, Convenção das Mudanças Climáticas, Declaração de princípios sobre florestas, a Declaração do Rio sobre Ambiente e Desenvolvimento e a Carta da Terra. O que a Agenda 21 e a Declaração do Rio têm em comum?",
+      "respostas": [
+        "Eliminação da pobreza e do analfabetismo.",
+        "Instituição de créditos de carbono.",
+        "Desenvolvimento sustentável e consciência ecológica.",
+        "Boa convivência entre o ser humano e o planeta.",
+        "Redução das emissões gasosas."
+      ],
+      "correta": 2,
+      "justificativa": "Tanto a Agenda 21 quanto a Declaração do Rio promovem o desenvolvimento sustentável, aliando crescimento com consciência ecológica."
+    },
+    {
+      "pergunta": "Com a adoção da Agenda 21, a conferência estabeleceu objetivos concretos de sustentabilidade em diversas áreas, mostrando a necessidade de se buscarem novos recursos financeiros para a complementação do desenvolvimento sustentável em uma escala global. Assinale a alternativa correta.",
+      "respostas": [
+        "A Agenda 21 consiste em uma declaração da ONU sobre do meio ambiente e o desenvolvimento para definir quais são os direitos e os deveres dos Estados.",
+        "A Carta da Terra explica os fundamentos do desenvolvimento sustentável.",
+        "Apenas a dimensão ambiental é levada em consideração na Declaração do Rio sobre Ambiente e Desenvolvimento.",
+        "Convenção da Biodiversidade possui 40 capítulos que estão divididos em quatro seções.",
+        "A Agenda 21 visa a conciliar apenas métodos de proteção ambiental e justiça social."
+      ],
+      "correta": 1,
+      "justificativa": "A Carta da Terra é um documento que apresenta princípios éticos fundamentais para a construção de uma sociedade global justa, sustentável e pacífica."
+    },
+    {
+      "pergunta": "Como os países industrializados possuem cotas de redução de emissão de gases causadores do efeito estufa, eles podem adquirir os CERs de desenvolvedores de projetos em países em desenvolvimento para auxiliar no cumprimento de suas metas de Gases do Efeito Estufa (GEE) ou de captura de carbono.",
+      "respostas": [
+        "Os Certificados de Emissões Reduzidas (CERs), emitidos pelo Conselho Executivo do MDL (Mecanismo de Desenvolvimento Limpo), podem ser negociados apenas entre os países em desenvolvimento.",
+        "O MDL foi criado e homologado pelo Tratado de Kyoto.",
+        "Os projetos de MDL podem ser baseados em fontes renováveis e alternativas de energia, eficiência e conservação de energia ou reflorestamento.",
+        "Para aprovação de projetos no âmbito do MDL, não existem regras claras e rígidas.",
+        "Devido à grande mobilização mundial em torno do controle do dióxido de carbono, a comunidade de cientistas acredita plenamente na causa."
+      ],
+      "correta": 2,
+      "justificativa": "O Mecanismo de Desenvolvimento Limpo (MDL) permite que países desenvolvidos invistam em projetos sustentáveis em países em desenvolvimento, gerando CERs."
+    },
+    {
+      "pergunta": "Durante muitos anos, o mundo discutiu os problemas ambientais em conferências, gerando documentos e propondo planos de ação que demoram mais de 20 anos para saírem do papel. Promovia-se uma mudança de comportamento por parte da população, uma quebra de paradigma. Em que estava baseada a solução para crise ambiental?",
+      "respostas": [
+        "Na educação ambiental, aplicada a todas as camadas da sociedade, dentro e fora das escolas.",
+        "Na economia de combustíveis fósseis, devido à crise do petróleo e de energia.",
+        "No reflorestamento da Mata Atlântica e sua biodiversidade devastada ao longo dos anos.",
+        "Na colaboração entre os países e transferência de tecnologia dos países em desenvolvimento para os países ricos.",
+        "Em um documento conhecido como Carta da Terra, que propunha a eliminação da fome e do analfabetismo."
+      ],
+      "correta": 0,
+      "justificativa": "A solução proposta nas conferências e documentos estava centrada em promover uma mudança de comportamento por meio da educação ambiental, essencial para desenvolver a consciência ecológica nas pessoas."
+    },
+    {
+      "pergunta": "Juntamente com o uso dos avanços da ciência e da tecnologia, a educação precisa desempenhar um papel crucial no desenvolvimento de uma consciência crítica e promover o melhor entendimento dos problemas ambientais. Esse foi um assunto muito discutido nas conferências ambientais. Qual a conferência? Qual era seu assunto central?",
+      "respostas": [
+        "Estocolmo – plano de ação mundial.",
+        "Belgrado – desenvolvimento sustentável.",
+        "Rio 92 – educação ambiental.",
+        "Tbilisi – educação ambiental.",
+        "Kyoto – desenvolvimento sustentável."
+      ],
+      "correta": 3,
+      "justificativa": "A Conferência de Tbilisi, realizada em 1977 na Geórgia (então parte da URSS), foi a primeira conferência internacional com foco específico na educação ambiental."
+    },
+    {
+      "pergunta": "Na década de 1970, a questão ambiental passou a ser comentada na mídia, com atores e cantores famosos, chamando a atenção para as questões ambientais. Alguns anos mais tarde, foi publicado o relatório do Clube de Roma, intitulado de 'Os limites do crescimento'. Esse relatório tratava de uma simulação que mostrava que os recursos naturais seriam instintos em um futuro próximo se a indústria continuasse crescendo no mesmo ritmo da época. A partir daí, iniciaram as discussões sobre as questões ambientais. Qual foi a primeira conferência ambiental realizada?",
+      "respostas": [
+        "Tbilisi.",
+        "Estocolmo.",
+        "Belgrado.",
+        "Rio-92.",
+        "Kyoto."
+      ],
+      "correta": 1,
+      "justificativa": "A Conferência de Estocolmo, realizada em 1972, foi a primeira grande conferência da ONU sobre o meio ambiente, marcando o início das discussões globais sobre a questão ambiental."
+    },
+    {
+      "pergunta": "No tratado do Protocolo de Kyoto, um calendário é proposto em que os países desenvolvidos têm a obrigação de reduzir a quantidade de gases poluentes em, pelo menos, 5,2% até 2012. Todos os países signatários teriam que colocar, em prática, planos para reduzir a emissão desses gases entre 2008 e 2012. Assinale a alternativa correta quanto às atividades envolvidas.",
+      "respostas": [
+        "Gerenciamento de resíduos sólidos e construção de aterros sanitários.",
+        "Melhoria apenas no setor de transportes, respeitando a sustentabilidade.",
+        "Política pouco agressiva de proteção de florestas e sumidouros de carbono.",
+        "Priorização dos mecanismos financeiros e de mercado que estejam de acordo com os objetivos da convenção.",
+        "Todos os países participantes da conferência de Kyoto aceitaram as propostas e cumpriram o calendário."
+      ],
+      "correta": 3,
+      "justificativa": "O Protocolo de Kyoto incentivou mecanismos de mercado, como o comércio de créditos de carbono, para ajudar os países a cumprir as metas de redução de emissões."
+    },
+    {
+      "pergunta": "Se levarmos em consideração o descobrimento do Brasil pelos colonizadores portugueses, notamos que o respeito que os índios tinham pela natureza foi substituído por uma relação de exploração predatória, extraindo da colônia todas as suas riquezas naturais, sem se importarem com as consequências. Assinale a alternativa que mostra claramente que essa prática seria incorporada na nossa cultura.",
+      "respostas": [
+        "Em 1825: a população humana sobre a Terra chega ao seu primeiro bilhão de habitantes.",
+        "Em 1503: inicia-se a comercialização do pau-brasil. A Mata Atlântica possuía 200 mil km².",
+        "Em 1875: o ciclo do pau-brasil foi encerrado, devido à sua extinção.",
+        "Em 1969: o meio ambiente se transformou no principal assunto debatido em programas de TV e por artistas famosos.",
+        "Em 1972: Clube de Roma publica um relatório intitulado 'Os limites do crescimento', chamando atenção do mundo quanto ao esgotamento dos recursos naturais."
+      ],
+      "correta": 1,
+      "justificativa": "A extração do pau-brasil, logo após a chegada dos portugueses, é o primeiro exemplo histórico de exploração predatória dos recursos naturais do Brasil."
+    },
+    {
+      "pergunta": "A aceitação de energias novas, como a eólica, tem ocorrido de forma progressiva na sociedade mundial. Na Espanha, por exemplo, pesquisas indicam que entre 75% e 80% da população estão aceitando a instalação de usinas eólicas. Podemos afirmar:",
+      "respostas": [
+        "Prejuízo para o meio ambiente poderia acontecer apenas em virtude de desastres naturais.",
+        "O Brasil utiliza apenas fontes limpas de energia como a hidrelétrica e a solar.",
+        "Uma gestão eficiente dos recursos se refere ao aproveitamento de recursos naturais sem prejuízo do ecossistema.",
+        "A energia elétrica não é um recurso fundamental na economia dos países.",
+        "A falta de produtividade no setor energético não incorpora os custos característicos da ineficiência em conversão de transmissão."
+      ],
+      "correta": 2,
+      "justificativa": "Uma gestão eficiente dos recursos naturais deve considerar o equilíbrio ecológico, garantindo o uso sustentável sem comprometer o ecossistema."
+    },
+    {
+      "pergunta": "A conservação dos recursos naturais consiste em usá-los de forma racional, bem como de forma econômica, ou seja, sem desperdício. Agindo assim, os recursos renováveis não irão desaparecer por seu mau uso e nem os recursos não renováveis serão esgotados. Assinale a alternativa correta.",
+      "respostas": [
+        "Poucos recursos naturais sofrem algum tipo de modificação ou beneficiamento antes de serem utilizados.",
+        "A conservação dos recursos naturais consiste em usá-los de forma bem econômica, diminuindo os gastos com energia.",
+        "Os recursos renováveis não irão desaparecer por seu mau uso.",
+        "Se não existir uma preocupação com a reposição dos elementos que são retirados do meio ambiente, esses elementos serão extintos.",
+        "A principal vantagem dos recursos não renováveis é a reutilização por meio da reciclagem."
+      ],
+      "correta": 3,
+      "justificativa": "A conservação dos recursos naturais requer uma preocupação com a reposição dos elementos retirados do meio ambiente para evitar sua extinção."
+    },
+    {
+      "pergunta": "A dimensão social do desenvolvimento sustentável tem como objetivo construir uma civilização em que seus integrantes tenham maior equidade na distribuição dos recursos e da renda, para melhoria dos direitos e das condições de vida, reduzindo a distância entre padrões de vida. Assinale a alternativa correta.",
+      "respostas": [
+        "O bem comum é a base da dimensão social do desenvolvimento sustentável.",
+        "O Brasil não tem sérios problemas com as fontes de energia, pois sua bacia hidrográfica é muito extensa.",
+        "O racionamento de energia foi benéfico em parte pela educação e pela conscientização social que promoveu apenas no nordeste do país.",
+        "No Brasil, não precisamos contar com outras fontes de geração de energia que permitam suprir as deficiências de geração elétrica.",
+        "O governo brasileiro só investiu em energia nuclear como fonte alternativa de energia."
+      ],
+      "correta": 0,
+      "justificativa": "A justiça social, a equidade e o bem comum são pilares fundamentais da dimensão social do desenvolvimento sustentável."
+    },
+    {
+      "pergunta": "A educação ambiental (EA) no Brasil assume uma perspectiva mais abrangente, não restringindo seu olhar à proteção e ao uso sustentável de recursos naturais, mas incorporando fortemente a proposta de construção de uma sociedade sustentável, mais do que apenas um segmento da educação. Podemos afirmar:",
+      "respostas": [
+        "Ainda não existe nenhuma lei no país que disponha como a educação ambiental deve ser implantada e desenvolvida no currículo escolar ou no processo educativo.",
+        "A EA estimula o consumo de combustíveis fósseis e produtos facilmente esgotáveis, substituindo-os por recursos renováveis.",
+        "Os principais causadores de poluição são as usinas de hidrogênio durante a queima do gás.",
+        "A EA deve ser uma preocupação apenas de cientistas e estudiosos, não chegando ao cidadão comum.",
+        "A EA é considerada como a principal ferramenta para resolução da crise ambiental e deve analisar a questão de forma holística."
+      ],
+      "correta": 4,
+      "justificativa": "A educação ambiental deve envolver todos os setores da sociedade e abordar as causas e consequências da crise de forma integrada."
+    },
+    {
+      "pergunta": "A energia elétrica poderia ser suprida por geração de fontes como a eólica, que levaria a essas populações não somente o conforto, mas também a geração de emprego e renda. Assinale a alternativa correta.",
+      "respostas": [
+        "Vê-se que a preocupação principal não é com o bem-estar, mas com o meio ambiente e os meios utilizados para aprimorar a qualidade dessas condições.",
+        "Na usina eólica instalada em Fernando de Noronha – PE, o aerogerador fornece energia elétrica sem necessidade de aceso a redes de transmissão.",
+        "Podemos mensurar facilmente o capital humano, que faz parte do desenvolvimento sustentável.",
+        "Não poderíamos deixar de utilizar a água para a geração de energia elétrica, aproveitando-a para o consumo humano.",
+        "Independente da oferta de serviços, os diferentes níveis sociais terão oportunidade de acesso iguais."
+      ],
+      "correta": 1,
+      "justificativa": "A usina eólica de Fernando de Noronha é um exemplo prático de energia local e renovável, contribuindo para a sustentabilidade da ilha."
+    },
+    {
+      "pergunta": "A ordem econômica e financeira está alicerçada nos princípios elencados na Constituição Federal Brasileira, no seu art. 170: 'A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes princípios':",
+      "respostas": [
+        "Defesa dos direitos humanos.",
+        "Redução das desigualdades regionais e sociais.",
+        "Tratamento preconceituoso para as empresas brasileiras de capital nacional de pequeno porte.",
+        "Propriedade pública.",
+        "Apenas concorrência nacional."
+      ],
+      "correta": 1,
+      "justificativa": "O art. 170 da Constituição Federal elenca a redução das desigualdades regionais e sociais como um dos princípios da ordem econômica."
+    },
+    {
+      "pergunta": "As usinas hidrelétricas utilizam a água acumulada em represas e a queda d'água move turbinas que acionam geradores e geram energia elétrica. Quais os impactos ambientais que uma usina pode causar ao meio ambiente?",
+      "respostas": [
+        "Não causa nenhum dano ao meio ambiente.",
+        "Liberação de gases de efeitos estufa como dióxido de carbono e dióxido de enxofre.",
+        "Alagamento de grandes áreas e modificação do ecossistema (biodiversidade local).",
+        "Não causa deslocamento da população local, facilitando o uso.",
+        "Atrapalha a paisagem e os pontos turísticos da região."
+      ],
+      "correta": 2,
+      "justificativa": "Usinas hidrelétricas causam impactos ambientais significativos, como alagamento de áreas extensas, deslocamento de comunidades e alterações na biodiversidade."
+    },
+    {
+      "pergunta": "Existe um limite finito de combustíveis fósseis na Terra e eles podem, eventualmente, se esgotar se não forem utilizados com cautela. Uma vez que são utilizados, eles não podem ser reutilizados novamente, por isso são chamados de não renováveis. Quais são os combustíveis fósseis mais usados no mundo?",
+      "respostas": [
+        "Carvão vegetal e vento.",
+        "Gás natural e hidrogênio.",
+        "Césio e urânio.",
+        "Carvão vegetal e petróleo.",
+        "Petróleo e água."
+      ],
+      "correta": 3,
+      "justificativa": "Os combustíveis fósseis mais utilizados no mundo são o carvão mineral e o petróleo, apesar da confusão comum com carvão vegetal na alternativa."
+    },
+    {
+      "pergunta": "Nas usinas solares, a energia do sol é captada por painéis solares formados por células fotovoltaicas e transformada em energia elétrica. Nas usinas eólicas, os geradores são acionados por hélices movidas pelo vento e geram energia elétrica. As usinas hidrelétricas utilizam a água acumulada em represas e a queda d'água move turbinas que acionam geradores e geram energia elétrica. Assinale a alternativa com uma característica comum aos três processos de geração de energia elétrica:",
+      "respostas": [
+        "No Brasil, formas alternativas de energia são subsidiadas pelo governo, como incentivo.",
+        "São utilizadas pela maioria dos brasileiros, principalmente na região sul do país.",
+        "Apresentam baixo custo de implantação a curto prazo. Muito usado nos Estados Unidos e na Europa.",
+        "Dependem das reservas de combustíveis fósseis, poluindo e de alto custo.",
+        "São formas de energia limpa, utilizando recursos renováveis, causando o mínimo de impacto ambiental."
+      ],
+      "correta": 4,
+      "justificativa": "As usinas solar, eólica e hidrelétrica são consideradas fontes de energia limpa e renovável, causando menor impacto ambiental."
+    },
+    {
+      "pergunta": "O serviço elétrico brasileiro precisa de constantes iniciativas de investimento de capital estrangeiro e nacional, visando a abrir novos negócios, como a busca de utilização de novas fontes de geração como a eólica (ventos), biomassa, fotovoltaica (luz solar), entre outras renováveis, que ainda têm percentagens de utilização relativamente baixas. Podemos afirmar:",
+      "respostas": [
+        "É um mundo, em termos de estoques e fluxos de capital, no qual estão incluídos o capital humano, ambiental ou natural e o capital social.",
+        "A teoria econômica participa plenamente da questão de escala, favorecendo as grandes industriais.",
+        "Segundo a teoria econômica, o meio ambiente é uma fonte finita de recursos naturais e uma fonte infinita de resíduos.",
+        "Na elaboração de um projeto no setor de energia e no retorno dos investimentos.",
+        "Ainda não existe, atualmente, a tendência de avaliar projetos também em função dos impactos ambientais."
+      ],
+      "correta": 0,
+      "justificativa": "A alternativa apresenta uma visão mais moderna e abrangente da economia, levando em conta diferentes formas de capital na análise de investimentos e sustentabilidade."
+    },
+    {
+      "pergunta": "A ISO 14000 tem como objetivo central um sistema de gestão ambiental que auxilia a empresa a cumprir os compromissos assumidos em benefício do meio ambiente. Sobre a certificação ambiental, podemos afirmar:",
+      "respostas": [
+        "A certificação ambiental é baseada no cumprimento da ISO 14000, exigindo que a empresa tenha bom desempenho ambiental.",
+        "Todas as empresas que cumprem as leis ambientais promovem os princípios do desenvolvimento sustentável.",
+        "O conceito da melhoria contínua foi inserido nessa norma com o objetivo de estimular a melhoria do sistema de gestão ambiental.",
+        "Existem exigências relacionadas à segurança do trabalho e à saúde ocupacional de seus colaboradores.",
+        "As auditorias ambientais passaram a ter um papel importante como instrumento de certificação ambiental, sendo usada apenas para se manter no mercado verde."
+      ],
+      "correta": 2,
+      "justificativa": "A ISO 14000, especialmente a 14001, tem como base o ciclo PDCA (Planejar, Executar, Verificar, Agir), que visa à melhoria contínua dos processos ambientais."
+    },
+    {
+      "pergunta": "A Lei n° 9.795 (Lei da Educação Ambiental), em seu art. 2°, diz: 'A educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não formal'. De acordo com as propostas elaboradas, assinale a alternativa correta.",
+      "respostas": [
+        "Formar agentes multiplicadores da educação socioambiental",
+        "Promover a organização social por meio da renda familiar.",
+        "Envolver apenas segmentos organizados da sociedade como Fiesp, Ciesp e sindicatos.",
+        "Executar os processos de informação e formação destinados a escolas de nível médio e superior.",
+        "Cabe aos governos o desenvolvimento da aplicação da educação ambiental em trabalhos na sociedade."
+      ],
+      "correta": 0,
+      "justificativa": "Um dos objetivos principais da educação ambiental é formar cidadãos conscientes, críticos e atuantes, que possam multiplicar esse conhecimento na sociedade."
+    },
+    {
+      "pergunta": "A educação ambiental tornou-se lei em 27 de abril de 1999. Assinale a alternativa correta sobre o art. 1º dessa lei.",
+      "respostas": [
+        "Processo em que se busca despertar a preocupação coletiva para a questão ambiental.",
+        "Garantir o acesso à informação em linguagem acadêmica e científica.",
+        "Contribuir para o desenvolvimento de uma consciência crítica.",
+        "Estimular o enfrentamento apenas das questões ambientais.",
+        "Não há necessidade de despertar a responsabilidade individual, pois alguns grupos cuidarão da sua implantação."
+      ],
+      "correta": 2,
+      "justificativa": "O artigo 1º trata da educação ambiental como processo que busca desenvolver uma compreensão crítica e reflexiva sobre a realidade socioambiental."
+    },
+    {
+      "pergunta": "A educação ambiental é de fundamental importância para a propagação do conceito de desenvolvimento sustentável e a aplicação prática dele. Assinale a alternativa correta.",
+      "respostas": [
+        "As normas e os certificados de sistemas de qualidade que foram utilizados em organizações contribuíram muito pouco para o desenvolvimento sustentável.",
+        "A ISO 14000 tem como objetivo a melhoria contínua do produto, sem levar em consideração as leis ambientais.",
+        "A ISO 8000 leva em consideração apenas a segurança do funcionário para reduzir os acidentes de trabalho, que trazem prejuízo para as organizações.",
+        "A ISO 14001 estabelece quais são as diretrizes para a área ambiental do ponto de vista ecológico.",
+        "A ISO 14001 é uma norma de sistema que reforça o enfoque no aprimoramento da conservação ambiental pelo uso de um único sistema de gerenciamento."
+      ],
+      "correta": 3,
+      "justificativa": "A ISO 14001 é uma norma internacional que define os critérios para um sistema de gestão ambiental, com foco na sustentabilidade e na conformidade legal."
+    },
+    {
+      "pergunta": "A norma ISO 14001 não exige que todos os padrões e as normas sejam executados rigorosamente. Contudo, as organizações devem manter o foco no gerenciamento ambiental, buscando sempre atender aos requisitos básicos para se manter na norma. Assinale a alternativa correta.",
+      "respostas": [
+        "Muitas empresas não pretendem aderir ao sistema ISO, pois exige alto investimento e pouco retorno a médio prazo.",
+        "Atualmente, as empresas certificadas pela ISO 14001 agregam valores a seus produtos ou serviços.",
+        "Os produtos e os serviços dessas organizações se tornam menos competitivos no mercado, devido ao seu aumento de custo.",
+        "A ISO 14001 não leva em consideração a qualidade do produto, mas os impactos ambientais que ele pode causar ao longo do seu ciclo de vida.",
+        "As auditorias ambientais também são baseadas nessa mesma norma e a organização precisa realizá-la de forma periódica."
+      ],
+      "correta": 1,
+      "justificativa": "A certificação demonstra o compromisso da empresa com o meio ambiente, o que pode melhorar sua imagem e agregar valor aos seus produtos/serviços."
+    },
+    {
+      "pergunta": "Analisando o panorama brasileiro, o Sebrae realizou uma pesquisa nas regiões Sul e Sudeste do Brasil, em 300 empresas de médio e pequeno porte. Assinale a alternativa correta.",
+      "respostas": [
+        "70% das empresas controlam emissões para a atmosfera.",
+        "67% das empresas têm tratamento de efluentes.",
+        "76% das empresas não se preocupam com treinamento.",
+        "54% fazem inventário de geração e destinação de resíduos.",
+        "59% das empresas possuem um responsável por questões ambientais."
+      ],
+      "correta": 4,
+      "justificativa": "Segundo dados da pesquisa realizada pelo Sebrae, 59% das empresas possuem um responsável por questões ambientais, demonstrando o avanço na estruturação das empresas em relação à responsabilidade ambiental."
+    },
+    {
+      "pergunta": "Lei n° 6.938, de 31 de agosto de 1981 (constituída por 21 artigos): Dispõe sobre a Política Nacional do Meio Ambiente, seus fins e mecanismos de formulação e aplicação, e dá outras providências. Assinale a alternativa correta.",
+      "respostas": [
+        "A Política Nacional do Meio Ambiente tem por objetivo o desenvolvimento socioeconômico e a proteção da dignidade da vida humana.",
+        "Considerar o meio ambiente como um patrimônio público, podendo a sociedade usufruir de seus recursos para satisfazer suas necessidades.",
+        "Cabe as ONGs fazer o acompanhamento da qualidade ambiental e protestar quando necessário.",
+        "Educação ambiental a todos os níveis do ensino apenas nas escolas e nas universidades.",
+        "Constitui o Sistema Nacional do Meio Ambiente (Sisnama) e institui o Cadastro de Defesa Ambiental."
+      ],
+      "correta": 1,
+      "justificativa": "De acordo com a Lei nº 6.938/81, o meio ambiente é um bem de uso comum do povo e essencial à sadia qualidade de vida."
+    },
+    {
+      "pergunta": "O principal objetivo da norma SA 8000 é suprir a necessidade de consumidores mais informados e esclarecidos e que se preocupam como os produtos são fabricados e não somente com a qualidade deles.",
+      "respostas": [
+        "Durante o processo de implementação da norma SA 8000, as organizações devem comprovar que atendem a, pelo menos, 85% dos requisitos da norma.",
+        "As organizações são submetidas a auditorias por técnicos especializados, normalmente de renomadas entidades independentes.",
+        "A empresa pode solicitar aos funcionários fazer 'depósitos' ou deixar documentos de identidade quando iniciarem o trabalho com a empresa.",
+        "A empresa deve proporcionar um ambiente de trabalho seguro tomando apenas as medidas adequadas para prevenir acidentes e paralizações do processo produtivo.",
+        "Poucas empresas se preocupam em demonstrar o seu compromisso social, financiando projetos que melhorem a qualidade de vida na comunidade."
+      ],
+      "correta": 1,
+      "justificativa": "A norma SA 8000 exige auditorias independentes para garantir que os requisitos sociais e trabalhistas estão sendo cumpridos."
+    },
+    {
+      "pergunta": "Pela primeira vez na história do Brasil, a Constituição de 1988 levou em consideração o meio ambiente. Assinale a alternativa correta, quanto ao que diz a Constituição sobre os direitos dos indivíduos.",
+      "respostas": [
+        "Apenas os brasileiros que moram na zona rural podem usufruir do meio ambiente ecologicamente equilibrado.",
+        "Apenas as pessoas que moram nas periferias das cidades têm direito ao aumento da qualidade de vida.",
+        "Cuidar do meio ambiente e defendê-lo para as gerações futuras é um dever apenas do poder público.",
+        "Todos têm direito a usufruir do meio ambiente equilibrado e têm o dever de preservá-lo e defendê-lo.",
+        "O cidadão comum que não respeitasse o meio ambiente não sofria punições até o ano de 1995."
+      ],
+      "correta": 3,
+      "justificativa": "Conforme o Artigo 225 da Constituição Federal de 1988, todos têm direito ao meio ambiente ecologicamente equilibrado e o dever de defendê-lo e preservá-lo."
+    },
+    {
+      "pergunta": "Um exemplo típico é a reciclagem de materiais que traz grande economia para as empresas, reúso de água, venda de desenvolvimento de novos processos produtivos, além da preocupação com o novo perfil do consumidor que é consciente da questão ecológica. Assinale a alternativa correta.",
+      "respostas": [
+        "As empresas com recursos limitados não veem a gestão ambiental como algo caro e não atingível a médio e curto prazo.",
+        "É necessário ter criatividade, pois é possível ganhar dinheiro e proteger o meio ambiente mesmo não estando no mercado verde.",
+        "Pequenas transformações internas podem beneficiar o meio ambiente, mas dificilmente se tornam uma oportunidade de negócio.",
+        "Mais da metade das grandes empresas com certificado de qualidade se interessam em certificação ambiental.",
+        "As empresas de pequeno porte se interessam pela proteção ambiental e pelo mercado verde, pois seus produtos podem ser vendidos com preços maiores, obtendo mais lucro."
+      ],
+      "correta": 1,
+      "justificativa": "A gestão ambiental eficiente pode gerar economia, inovação e novas oportunidades de negócio mesmo fora do 'mercado verde' formal."
+    },
+    {
+      "pergunta": "O progresso e o consumo provocaram impactos negativos, como a geração de resíduos e poluentes lançados na natureza. Assinale a alternativa que mostra a principal causa da crise ambiental que vivemos atualmente.",
+      "respostas": [
+        "O efeito estufa, provocado pela poluição, causando mudanças climáticas.",
+        "O desequilíbrio natural na cadeia alimentar das espécies, fazendo com que outra população cresça em excesso.",
+        "O homem, desde o início dos tempos, manteve uma relação de troca e equilíbrio com a natureza.",
+        "As reservas de minérios estão se exaurindo. Em um futuro próximo, muitos minérios desaparecerão da superfície da Terra.",
+        "O homem utilizou os recursos naturais de forma predatória ao aumentar o consumo de produtos industrializados."
+      ],
+      "correta": 4,
+      "justificativa": "A crise ambiental atual está relacionada principalmente ao uso predatório dos recursos naturais, intensificado pelo consumo em massa de produtos industrializados."
+    },
+    {
+      "pergunta": "O que se constata na prática é que, a partir de uma adequada política de gestão ambiental, as empresas obtêm uma série de benefícios econômicos e estratégicos. Assinale a alternativa correta.",
+      "respostas": [
+        "O aumento da participação no mercado, em função da inovação dos produtos e da menor concorrência, é um benefício estratégico.",
+        "Incremento de receita com aumento da contribuição marginal de 'produtos verdes' que podem ser vendidos a preços mais altos é um benefício estratégico.",
+        "Aumento da produtividade, alto comprometimento do pessoal, melhoria nas relações de trabalho são benefícios estratégicos.",
+        "Acesso assegurado ao mercado externo e melhor adequação aos padrões ambientais é um benefício econômico.",
+        "Aumento da produtividade, melhoria da criatividade para novos desafios são benefícios econômicos."
+      ],
+      "correta": 0,
+      "justificativa": "O aumento da participação no mercado por meio da inovação e da competitividade sustentável é um benefício estratégico da gestão ambiental eficaz."
+    },
+    {
+      "pergunta": "Quais fatores que podem aumentar o quadro de degradação ambiental? Assinale a alternativa correta.",
+      "respostas": [
+        "Crescimento desordenado da população sem aumento do nível educacional.",
+        "Redução dos nascimentos e aumento do nível educacional.",
+        "Modificação de comportamentos, atitudes, estilo de vida que poderão se refletir em um consumo sustentável.",
+        "Restabelecer o respeito na convivência dos seres humanos e outros seres vivos.",
+        "Utilizar para produção industrial apenas árvores de áreas de reflorestamento, evitando a extinção de espécies."
+      ],
+      "correta": 0,
+      "justificativa": "O crescimento populacional desordenado sem o correspondente aumento da educação ambiental agrava a degradação, pois há mais consumo e geração de resíduos sem consciência sustentável."
+    },
+    {
+      "pergunta": "Quando utilizadas para geração de energia, as fontes renováveis auxiliam na diminuição da exploração dos recursos esgotáveis ou não renováveis, pois realizam uma exploração sustentável. Assinale a alternativa com as fontes de energia que causam menos impacto ambiental.",
+      "respostas": [
+        "Gás natural e carvão.",
+        "Hidrelétricas e petróleo.",
+        "Energia nuclear e eólica.",
+        "Energia eólica e hidrelétricas.",
+        "Hidrogênio e gás natural."
+      ],
+      "correta": 3,
+      "justificativa": "Energia eólica e hidrelétrica são fontes renováveis e, em geral, causam menos impacto ambiental quando comparadas às fontes fósseis."
+    },
+    {
+      "pergunta": "Temos consciência que a crise ambiental foi causada pela própria humanidade, seduzida pelo desenvolvimento econômico e pela conquista de riquezas e tecnologias. Assinale a alternativa de problema ambiental não causado pela ação antrópica.",
+      "respostas": [
+        "Poluição das águas de rios e mares por lançamento de esgoto não tratado.",
+        "Lançamento de gases, como dióxido de carbono e dióxido de enxofre na atmosfera, provenientes da queima de combustíveis fósseis.",
+        "Lançamento de gases, como gás sulfídrico e dióxido de enxofre na atmosfera, provenientes de erupções vulcânicas.",
+        "Incineração de lixo, lançando na atmosfera gases tóxicos, como dioxinas e furanos.",
+        "Aquecimento das águas de rios e mares por meio do lançamento de águas provenientes de sistemas de refrigeração industrial sem tratamento prévio."
+      ],
+      "correta": 2,
+      "justificativa": "Erupções vulcânicas são fenômenos naturais e não resultam da ação humana (antrópica), ao contrário dos demais exemplos."
+    }
+  ]
+} 
