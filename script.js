@@ -14,8 +14,6 @@ const alternativasContainer = document.querySelector('.alternativas');
 const pontuacaoElement = document.querySelector('.pontuacao');
 const reiniciarBtn = document.querySelector('.reiniciar-btn');
 const voltarBtn = document.querySelector('.voltar-btn');
-const questaoAtualElement = document.querySelector('.questao-atual');
-const totalQuestoesElement = document.querySelector('.total-questoes');
 
 // Inicialização
 async function inicializarQuiz() {
@@ -60,10 +58,6 @@ function iniciarTema(temaId, temas) {
     estadoAtual.temaAtual = temaSelecionado;
     estadoAtual.questaoAtual = 0;
     estadoAtual.pontuacao = 0;
-    
-    // Atualizar contador
-    totalQuestoesElement.textContent = temaSelecionado.questoes.length;
-    questaoAtualElement.textContent = '1';
     
     esconderTemas();
     mostrarQuestao();
@@ -134,8 +128,6 @@ function verificarResposta(respostaIndex) {
     proximaQuestaoBtn.addEventListener('click', () => {
         if (estadoAtual.questaoAtual < estadoAtual.temaAtual.questoes.length - 1) {
             estadoAtual.questaoAtual++;
-            // Atualizar contador
-            questaoAtualElement.textContent = (estadoAtual.questaoAtual + 1).toString();
             renderizarQuestao();
         } else {
             mostrarResultado();
